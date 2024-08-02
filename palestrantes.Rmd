@@ -24,16 +24,16 @@ knitr::opts_chunk$set(
 
 <br>
 
-```{r palestrantes}
+```{r palestrantes, eval = file.exists("2024/Palestrantes.xlsx"), echo = FALSE, warning = FALSE, message = FALSE, fig.align = 'center', out.width = "100%", results = "asis"}
 library("dplyr")
 
 # initialize all sheets
-abas <- readxl::excel_sheets("2023/Palestrantes.xlsx")
+abas <- readxl::excel_sheets("2024/Palestrantes.xlsx")
 
 # display each sheet in a tab
 for (j in 1:length(abas)) {
   palestrantes.raw <-
-    readxl::read_excel("2023/Palestrantes.xlsx",
+    readxl::read_excel("2024/Palestrantes.xlsx",
                        sheet = abas[j],
                        col_types = c("text"))
   # replace the link by a tag
@@ -44,7 +44,7 @@ for (j in 1:length(abas)) {
     if (!is.na(palestrantes.raw[i, 1])) {
       fotos[i] <-
         paste0('<img src=\"',
-               file.path("2023", "Palestrantes", palestrantes.raw[i, 1]),
+               file.path("2024", "Palestrantes", palestrantes.raw[i, 1]),
                '\" height=\"100px;\" align=\"center\"/>')
     }
   }

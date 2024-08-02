@@ -31,7 +31,7 @@ knitr::opts_chunk$set(
 }
 ```
 
-```{r galeria-carousel, out.width="50%"}
+```{r galeria-carousel, out.width="50%", eval = !sjmisc::is_empty(list.files("2024/Fotos/"))}
 library("dplyr")
 
 # carousel

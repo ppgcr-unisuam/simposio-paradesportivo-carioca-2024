@@ -4,7 +4,6 @@ date: '`r format(Sys.Date())`'
 author:
   - name: PPGCR-UNISUAM
   - email: "paradesportivocarioca@gmail.com"
-repository_url: https://ppgcr-unisuam.github.io/simposio-paradesportivo-carioca/
 creative_commons: CC BY-NC
 output_dir: docs
 search: true
@@ -30,7 +29,7 @@ navbar:
   right:
     - text: "Inscrições"
       icon: "fa-share-from-square"
-      href: [https://forms.gle/V7Ew5NjBYCWyJg8DA]
+      href: [https://forms.gle/SzQQ3AiAtDD2ndwYA]
     - text: "Submissão"
       icon: "fa-share-from-square"
       href: [https://forms.gle/o1iawzzjTLXjF2CH6]

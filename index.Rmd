@@ -1,5 +1,5 @@
 ---
-title: VII Simpósio Paradesportivo Carioca
+title: VIII Simpósio Paradesportivo Carioca
 output:
   html_document:
     toc: TRUE
@@ -59,13 +59,13 @@ if(file.exists("2023/Logo_Paradesportivo_2023.jpg")) {
 
 ## **Data**
 
-### *20 de setembro de 2023*
+### *18 de setembro de 2024*
 
 <br>
 
 ## **Inscrições**
 
-### [`r library(fontawesome); fa("arrow-up-right-from-square", margin_right = "0.1em")`](https://forms.gle/V7Ew5NjBYCWyJg8DA) *Gratuitas*
+### [`r library(fontawesome); fa("arrow-up-right-from-square", margin_right = "0.1em")`](https://forms.gle/SzQQ3AiAtDD2ndwYA) *Gratuitas*
 
 <br>
 
@@ -89,7 +89,7 @@ O Simpósio Paradesportivo Carioca é um evento realizado pelo Programa de Pós-
 
 <br>
 
-Em todas as edições (2015, 2016, 2017, 2019, 2021 e 2022), além das palestras, mesas redondas, mini-cursos e lançamento de livros, os participantes internos e externos tiveram a oportunidade de apresentar trabalhos científicos (incluindo TCCs, dissertações de mestrado e teses de doutorado) em forma de pôster, com premiação dos melhores trabalhos. Ao longo desses anos, o Simpósio Paradesportivo Carioca se tornou um evento de referência na área do Esporte para Pessoas com Deficiência, com a participação de mais de 1000 pessoas.
+Em todas as edições (2015, 2016, 2017, 2019, 2021, 2022 e 2023), além das palestras, mesas redondas, mini-cursos e lançamento de livros, os participantes internos e externos tiveram a oportunidade de apresentar trabalhos científicos (incluindo TCCs, dissertações de mestrado e teses de doutorado) em forma de pôster, com premiação dos melhores trabalhos. Ao longo desses anos, o Simpósio Paradesportivo Carioca se tornou um evento de referência na área do Esporte para Pessoas com Deficiência, com a participação de mais de 1000 pessoas.
 
 <br>
 
@@ -104,11 +104,10 @@ A realização do Simpósio Paradesportivo Carioca é uma forma de aumentar a vi
 #  **Comissão Organizadora**
 
 - Profa. Dra. Patrícia dos Santos Vigário (UNISUAM)
-- Profa. Karina Reis (UNISUAM)
-- Prof. Carlos Alberto Cordella (UNISUAM)
-- Profa. Luciana Luna (UNISUAM)
 - Profa. MSc. Júlia Lemos (UNISUAM)
-- Profa. MSc. Larissa Barranco (UNISUAM)
+- Prof. Carlos Alberto Cordella (UNISUAM)
+- Prof. Mateus Miccichelli (UNISUAM)
+- Profa. Aroldo Caio de Araújo Barros (UNISUAM)
 
 <br>
 
@@ -121,21 +120,17 @@ A realização do Simpósio Paradesportivo Carioca é uma forma de aumentar a vi
 - Prof. Dr. Agnaldo José Lopes (UNISUAM)
 - Profa. Dra. Angela Nogueira Neves (EsEFEx)
 - Prof. Dr. Arthur de Sá Ferreira (UNISUAM)
+- Prof. Dr. Diego Viana (UFRJ)
 - Prof. Dr. Estevão Monteiro (UNISUAM)
 - Prof. Dr. Fábio Vieira dos Anjos (UNISUAM)
-- Prof. Ms. Hugo Vinícius (Univassouras)
 - Prof. Dr. Igor Ramathur Telles de Jesus (UNISUAM)
-- Prof. Dr. Jeter de Freitas (UNISUAM)
-- Profa. Ms. Júlia Lemos (UNISUAM)
-- Profa. Ms. Juliana Valentim Bittencourt (UNISUAM)
+- Prof. Ms. Júlia Lemos (UNISUAM)
 - Profa. Dra. Laura Alice Santos Oliveira (UNISUAM)
 - Prof. Dr. Leandro Alberto Calazans Nogueira (UNISUAM)
 - Profa. Dra. Luciana Crepaldi Lunkes (UNISUAM)
 - Prof. Dr. Luis Felipe da Fonseca Reis (UNISUAM)
-- Profa. Dra. Mariana Simões (UNICAMP)
 - Profa. Dra. Míriam Raquel Meira Mainenti (EsEFEx)
 - Prof. Dr. Ney Armando de Mello Meziat Filho (UNISUAM)
-- Profa. Dra. Patrícia dos Santos Vigário (UNISUAM)
 - Prof. Dr. Rafael Mocarzel (Univassouras)
 - Prof. Dr. Renato Santos de Almeida (UNISUAM)
 - Prof. Dr. Thiago Lemos de Carvalho (UNISUAM)
