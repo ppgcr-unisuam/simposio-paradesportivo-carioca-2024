@@ -1,0 +1,65 @@
+---
+title: Simpósio Paradesportivo Carioca | PPGCR-UNISUAM
+date: '`r format(Sys.Date())`'
+author:
+  - name: PPGCR-UNISUAM
+  - email: "paradesportivocarioca@gmail.com"
+repository_url: https://ppgcr-unisuam.github.io/simposio-paradesportivo-carioca/
+creative_commons: CC BY-NC
+output_dir: docs
+search: true
+navbar:
+  left:
+    - text: ""
+      icon: "fa-home"
+      href: [index.html]
+    - text: "Local"
+      href: [local.html]
+    - text: "Programação"
+      href: [programacao.html]
+    - text: "Palestrantes"
+      href: [palestrantes.html]
+    - text: "Normas de submissão"
+      href: [normas.html]
+    - text: "Publicações"
+      href: [publicacoes.html]
+    - text: "Participantes"
+      href: "2023/Participantes.pdf"
+    - text: "Galeria"
+      href: [galeria.html]
+  right:
+    - text: "Inscrições"
+      icon: "fa-share-from-square"
+      href: [https://forms.gle/V7Ew5NjBYCWyJg8DA]
+    - text: "Submissão"
+      icon: "fa-share-from-square"
+      href: [https://forms.gle/o1iawzzjTLXjF2CH6]
+    - text: ""
+      icon: "fa-envelope"
+      href: [mailto:paradesportivocarioca@gmail.com]
+    - text: ""
+
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    include:
+      in_header: [favicon.html]
+      after_body: [footer.html]
+    css:
+      - style.css
+      - ./CSS/narrow-margins.css
+      - ./CSS/responsive.css
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    edit: null
+    sharing:
+      facebook: yes
+      twitter: yes
+      google: yes
+      all:
+        - facebook
+        - twitter
+        - google
+---
