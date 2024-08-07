@@ -53,7 +53,7 @@ if(file.exists("2024/Logo_Paradesportivo_2024.jpg")) {
 
 ## **Tema**
 
-### *O esporte e o universo de possibilidades para as pessoas com deficiência*
+### *Esporte para Pessoas com Deficiência: alto rendimento, inclusão e reabilitação*
 
 <br>
 
@@ -71,7 +71,7 @@ if(file.exists("2024/Logo_Paradesportivo_2024.jpg")) {
 
 ## **Local**
 
-### [`r library(fontawesome); fa("location-dot", margin_right = "0.1em")`](local.html) *Auditório Sylvia Bisaggio*
+### [`r library(fontawesome); fa("location-dot", margin_right = "0.1em")`](local.html) *Av. Paris 84, Bonsucesso, RJ - Auditório Sylvia Bisaggio*
 
 <br>
 
@@ -107,7 +107,7 @@ A realização do Simpósio Paradesportivo Carioca é uma forma de aumentar a vi
 - Profa. MSc. Júlia Lemos (UNISUAM)
 - Prof. Carlos Alberto Cordella (UNISUAM)
 - Prof. Mateus Miccichelli (UNISUAM)
-- Profa. Aroldo Caio de Araújo Barros (UNISUAM)
+- Prof. Aroldo Caio de Araújo Barros (UNISUAM)
 
 <br>
 
