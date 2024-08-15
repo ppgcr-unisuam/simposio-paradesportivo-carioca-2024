@@ -37,6 +37,8 @@ navbar:
       icon: "fa-envelope"
       href: [mailto:paradesportivocarioca@gmail.com]
     - text: ""
+      icon: "fa-instagram"
+      href: [https://www.instagram.com/simposio_paradesportivo_021]
 
 output:
   html_document:
