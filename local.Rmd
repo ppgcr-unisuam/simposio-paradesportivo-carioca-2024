@@ -25,7 +25,7 @@ knitr::opts_chunk$set(
 
 <br>
 
-## Centro Universitário Augusto Motta (UNSUAM)
+## Centro Universitário Augusto Motta (UNISUAM)
 
 ### Campus Bonsucesso
 
