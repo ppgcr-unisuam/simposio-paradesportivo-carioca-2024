@@ -13,7 +13,7 @@ for(i in 1:dim(data)[1]){
   # send email
   nome <- data$Nome[i]
   email <- data$`e-mail`[i]
-  mailR::send.mail(from = "asferreira@unisuam.edu.br",
+  mailR::send.mail(from = "username@email",
                    to = c(paste0(nome, " <", email, ">"), "paradesportivocarioca@gmail.com"),
                    subject = "[Certificado] 8o Simpósio Paradesportivo Carioca",
                    body = paste0(
@@ -31,9 +31,9 @@ for(i in 1:dim(data)[1]){
                     Presidente - Prof. Dr. Patrícia dos Santos Vigário (UNISUAM)
                     <br><br>"),
             smtp = list(host.name = "smtp.gmail.com", port = 465,
-                        user.name = "asferreira@unisuam.edu.br",
+                        user.name = "username@email",
                         # senhas de app do Google (CRIAR ANTES DE ENVIAR)
-                        passwd = "ukppfeithzpugfad", ssl = TRUE),
+                        passwd = "****************", ssl = TRUE),
             authenticate = TRUE,
             send = TRUE,
             html = TRUE,
