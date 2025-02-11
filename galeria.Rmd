@@ -38,19 +38,16 @@ library("dplyr")
 bsplus::bs_carousel(id = "projetos-carousel",
             use_indicators = FALSE,
             use_controls = TRUE) %>%
-  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/01.jpg")) %>%
-  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/02.jpg")) %>%
-  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/03.jpg")) %>%
-  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/04.jpg")) %>%
-  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/05.jpg")) %>%
-  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/06.jpg")) %>%
-  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/07.jpg")) %>%
-  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/08.jpg")) %>%
-  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/09.jpg")) %>%
-  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/10.jpg")) %>%
-  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/11.jpg")) %>%
-  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/12.jpg")) %>%
-  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2023/Fotos/13.jpg"))
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2024/Fotos/01.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2024/Fotos/02.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2024/Fotos/03.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2024/Fotos/04.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2024/Fotos/05.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2024/Fotos/06.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2024/Fotos/07.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2024/Fotos/08.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2024/Fotos/09.jpg")) %>%
+  bsplus::bs_append(content = bsplus::bs_carousel_image(src = "2024/Fotos/10.jpg"))
 
 cat('\n\n')
 ```
